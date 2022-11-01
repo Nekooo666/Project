@@ -1,1 +1,4 @@
-print("hello world")
+import camAscii
+
+
+camAscii.webcam.ascii()
